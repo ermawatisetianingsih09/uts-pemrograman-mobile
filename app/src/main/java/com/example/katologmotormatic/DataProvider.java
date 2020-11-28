@@ -52,7 +52,7 @@ public class DataProvider {
         yamahas.add(new Yamaha("Mio", "2013",
                 "Kapasitas Mesin Silinder sebesar 113.7 cc dan telah menggunakan Tipe Mesin 4 Langkah, 2 Valve SOHC, Berpendingin Kipas dan telah dibekali oleh Diameter x Langkah sebesar 50 mm x 57,9 mm", R.drawable.yamaha_mio));
         yamahas.add(new Yamaha("NMAX 155", "2017",
-                "Tipe mesin Liquid Cooled 4 Stroke,SOHC kapasitas 155 cc dengan silinder tunggal beriameter 58.0 mm x 58.7 mm", R.drawable.yamaha_nmax));
+                "Tipe mesin LiquidCooled 4 Stroke,SOHC kapasitas 155 cc dengan silinder tunggal beriameter 58.0 mm x 58.7 mm", R.drawable.yamaha_nmax));
         yamahas.add(new Yamaha("X-Ride", "2020",
                 "Tipe mesin  4 langkah,2 Valve,Beprpendingin kipas dengan volume silinder 133,7 cc diameter x langkah 50.0 mm 57,9 mm", R.drawable.yamaha_xride));
         return yamahas;
