@@ -23,7 +23,7 @@ public class DataProvider {
         hondas.add(new Honda("SCOOPY", "2010",
                 "Honda Scoopy adalah salah satu merk pedagang sepeda motor Honda di Indonesia skuter matik ini yang di produksi oleh PT Astra Honda Motor. Sepeda motor ini diluncurkan pada tanggal 20 Mei 2010 yang dimaksudkan untuk mengantisipasi makin populernya ", R.drawable.honda_scoopy));
         hondas.add(new Honda("PCX150", "2010",
-                "Honda PCX 150 adalah motor keluaran Honda yang ditujukan bagi segmen motor premium skutik. ... Selain berteknologi injeksi atau lebih dikenal dengan istilah PGM-Fi, skuter matic PCX 150 ini juga memiliki alarm anti maling", R.drawable.honda_pcx));
+                "Honda PCX .150 adalah motor keluaran Honda yang ditujukan bagi segmen motor premium skutik. ... Selain berteknologi injeksi atau lebih dikenal dengan istilah PGM-Fi, skuter matic PCX 150 ini juga memiliki alarm anti maling", R.drawable.honda_pcx));
         hondas.add(new Honda("VARIO", "2006",
                 "sebuah skuter bertransmisi otomatis yang diproduksi oleh Astra Honda Motor di Indonesia sejak tahun 2006. Skuter ini dimaksudkan untuk mengantisipasi makin banyaknya populasi skuter otomatis yang beredar di pasar sepeda motor", R.drawable.honda_vario));
         return hondas;
